@@ -1,21 +1,21 @@
 Upute za pokretanje:
 
-Kreiraj virtual environment:
-  python -m venv venv
+Kreiraj virtual environment:  
+&nbsp;&nbsp;python -m venv venv
 
-Aktivacija:
-  Windows:
-    venv\Scripts\activate
-  Mac/Linux:
-    source venv/bin/activate
+Aktivacija:  
+&nbsp;&nbsp;Windows:  
+&nbsp;&nbsp;&nbsp;&nbsp;venv\Scripts\activate  
+&nbsp;&nbsp;Mac/Linux:  
+&nbsp;&nbsp;&nbsp;&nbsp;source venv/bin/activate
 
-Instalacija dependencyja:
-  pip install -r requirements.txt
+Instalacija dependencyja:  
+&nbsp;&nbsp;pip install -r requirements.txt
 
-Pokretanje:
-  python main.py
+Pokretanje:  
+&nbsp;&nbsp;python main.py
 
-Primjer inputa:
-  Pacijent ima povišeni tlak i glavobolje.
-  Koristi Andol i Brufen svaki dan.
-  Osjeća vrtoglavicu i umor.
+Primjer inputa:  
+&nbsp;&nbsp;Pacijent ima povišeni tlak i glavobolje.  
+&nbsp;&nbsp;Koristi Andol i Brufen svaki dan.  
+&nbsp;&nbsp;Osjeća vrtoglavicu i umor.
