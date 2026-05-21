@@ -1,0 +1,10 @@
+.env
+.env.local
+.env.*
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
